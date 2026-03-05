@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/update-exercise-app/static/css/main.f855e6bc.css",
+    "main.js": "/update-exercise-app/static/js/main.1a19159f.js",
+    "static/js/453.0853458d.chunk.js": "/update-exercise-app/static/js/453.0853458d.chunk.js",
+    "index.html": "/update-exercise-app/index.html",
+    "main.f855e6bc.css.map": "/update-exercise-app/static/css/main.f855e6bc.css.map",
+    "main.1a19159f.js.map": "/update-exercise-app/static/js/main.1a19159f.js.map",
+    "453.0853458d.chunk.js.map": "/update-exercise-app/static/js/453.0853458d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1a19159f.js"
+  ]
+}
